@@ -54,4 +54,7 @@ Dive into the world of sports analytics with our Power BI Paris 2024 Olympic Gam
 
 • Power BI Learners and Enthusiasts: This project serves as a practical, hands-on example for those looking to enhance their skills in data visualization, analytics, and the use of Power BI for sports data.
 
+[For the entire dataset and step by step process feel free to contact me, 
+social links as well as mail id is given in my profile bio.]
+
         Thank You bhaiyo and baheno :)
