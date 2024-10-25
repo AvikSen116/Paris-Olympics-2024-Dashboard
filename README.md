@@ -56,5 +56,7 @@ Dive into the world of sports analytics with our Power BI Paris 2024 Olympic Gam
 
 [For the entire dataset and step by step process feel free to contact me, 
 social links as well as mail id is given in my profile bio.]
+## 📧 Contact
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/avik-sen-043379273/) or check out my projects on [GitHub](https://github.com/AvikSen116).
 
         Thank You bhaiyo and baheno :)
